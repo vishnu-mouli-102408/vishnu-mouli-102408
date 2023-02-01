@@ -16,10 +16,12 @@
 <br>
 
 - A passionate Self-taught Front-end developer.
-- Interest in Open Source Contribution.
+- 👀 I’m interested in learning and working with community , open source contribution and give back to the community.
+- 💞️ I’m looking to collaborate on GitHub and open source projects related to Front-End Development.
 - Currently learning Web Development by Self.
 - I’m currently Open for an Intern or a new Job Opportunity.
 - Find my Resume Here. --> [Resume](https://drive.google.com/file/d/1N94XPPGTmGJac4dhVcDtr9J4B6udArTK/view?usp=share_link)
+- 📫 Reach out to me at **vishnumouli0@gmail.com**
 
 <br><br>
 
