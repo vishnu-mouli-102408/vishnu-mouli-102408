@@ -20,7 +20,7 @@
 - 💞️ I’m looking to collaborate on GitHub and open-source projects related to Front-End Development.
 - Currently learning Web Development by Self.
 - I’m currently Open for an Intern or a new Job Opportunity.
-- Find my Resume Here. --> [Resume](https://drive.google.com/file/d/1N94XPPGTmGJac4dhVcDtr9J4B6udArTK/view?usp=share_link)
+- Find my Resume Here. --> [Resume](https://drive.google.com/file/d/1X7gwM7hg48tqwzaE0QPZnQNNpUWtAm6o/view?usp=sharing)
 - 📫 Reach out to me at **vishnumouli0@gmail.com**
 
 <br><br>
