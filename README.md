@@ -11,13 +11,13 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/frontend-developer-3574982-3017318.mp4?h=700" width = 250px></picture>
 
 <br>
 
 - A passionate Self-taught Front-end developer.
-- 👀 I’m interested in learning and working with community , open source contribution and give back to the community.
-- 💞️ I’m looking to collaborate on GitHub and open source projects related to Front-End Development.
+- 👀 I’m interested in learning and working with the community, open source contributions, and giving back to the community.
+- 💞️ I’m looking to collaborate on GitHub and open-source projects related to Front-End Development.
 - Currently learning Web Development by Self.
 - I’m currently Open for an Intern or a new Job Opportunity.
 - Find my Resume Here. --> [Resume](https://drive.google.com/file/d/1N94XPPGTmGJac4dhVcDtr9J4B6udArTK/view?usp=share_link)
